@@ -1,0 +1,7 @@
+<!---- This file let's the Web enthusiast acquire the following: ---->
+   <!---- -> How to create a button. ---->
+<!---- The actual code starts from the next line :) ---->
+
+<button>
+    click
+</button>
