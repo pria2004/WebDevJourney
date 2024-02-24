@@ -1,0 +1,12 @@
+<!---- This file let's the Web enthusiast acquire the following: ---->
+   <!---- -> How to create two buttons . ---->
+   <! ---- -> You guys may think you may already know how to do this, so you can even try it to create more than 2 ---->
+<!---- The actual code starts from the next line :) ---->
+
+<button>
+    Hello
+</button>
+
+<button>
+    Welcome
+</button>
