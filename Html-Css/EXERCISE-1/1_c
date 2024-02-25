@@ -1,0 +1,7 @@
+<!---- This file let's the Web enthusiast acquire the following: ---->
+   <!---- -> How to create a text in a web page using paragraph element. ---->
+<!---- The actual code starts from the next line :) ---->
+
+<p>
+    Hello, World!
+</p>
