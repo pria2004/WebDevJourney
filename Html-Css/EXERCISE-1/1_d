@@ -1,0 +1,10 @@
+<!---- This file let's the Web enthusiast acquire the following: ---->
+   <!---- -> How to create two sentences in a web page using paragraph element. ---->
+<!---- The actual code starts from the next line :) ---->
+
+<p>
+    Hello All!
+</p>
+<p>
+    I am an aspiring Data Scientist
+</p>
