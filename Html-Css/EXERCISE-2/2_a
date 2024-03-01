@@ -1,0 +1,20 @@
+<!---- This file let's the Web enthusiast acquire the following: ---->
+   <!---- -> How to create a buttom and customize it using <style> tag. ---->
+<!---- The actual code starts from the next line :) ---->
+
+<button>
+    Request now
+</button>
+
+<style>
+    button{
+        color:white;
+        background-color: black;
+        border: none;
+        height: 30px;
+        width: 100px;
+        cursor: pointer;
+        
+    }
+
+</style>
