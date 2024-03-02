@@ -1,0 +1,21 @@
+<!---- This file let's the Web enthusiast acquire the following: ---->
+   <!---- -> How to create a amazon "add to cart" buttom and customize it using <style> tag. ---->
+<!---- The actual code starts from the next line :) ---->
+
+<button class="amazon">
+    Add to Cart
+</button>
+
+<style>
+    .amazon{
+        background-color: rgb(255,216,20);
+        color: black;
+        height: 25px;
+        width: 140px;
+        border:none;
+        border-radius: 13px;
+        cursor: pointer;
+        font-size: 13px;
+    }
+    
+</style>
