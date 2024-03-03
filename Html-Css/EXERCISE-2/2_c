@@ -1,0 +1,20 @@
+<!---- This file let's the Web enthusiast acquire the following: ---->
+   <!---- -> How to create a github "sign Up" buttom and customize it using <style> tag. ---->
+<!---- The actual code starts from the next line :) ---->
+
+<button class="git">
+    Sign up
+</button>
+
+<style>
+    .git{
+        color:white;
+        font-weight: bold;
+        background-color: rgb(46,164,79);
+        border:none;
+        border-radius: 3px;
+        height: 30px;
+        width: 80px;
+        cursor: pointer;
+    }
+</style>
