@@ -1,0 +1,30 @@
+<!---- This file let's the Web enthusiast acquire the following: ---->
+   <!---- -> How to create a get started buttom and customize it using <style> tag. ---->
+<!---- The actual code starts from the next line :) ---->
+
+<button class="get">
+    Get started
+</button>
+<button class="download">
+    Download
+</button>
+
+<style>
+    .get{
+        color: white;
+        background-color: rgb(121,82,179);
+        border: none;
+        border-radius: 2px;
+        height: 30px;
+        width: 95px;
+        cursor: pointer;
+        margin-right: 7px;
+    }
+    .download{
+        color: rgb(108,117,125);
+        height:30px;
+        width:95px;
+        font-weight: bold;
+        cursor: pointer;
+    }
+</style>
