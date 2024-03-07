@@ -1,3 +1,34 @@
 <!---- This file let's the Web enthusiast acquire the following: ---->
    <!---- -> How to create a get started buttom and customize it using <style> tag. ---->
 <!---- The actual code starts from the next line :) ---->
+
+<button class="apply">
+    Apply on company website
+</button>
+<button class="save">
+    Save
+</button>
+<style>
+    .apply{
+        background-color: rgb(10,102,194);
+        color: white;
+        border:none;
+        height: 30px;
+        width:200px;
+        border-radius: 15px;
+        font-weight:bold;
+        font-size: 11.5px;
+        margin-right: 6px;
+        cursor: pointer;
+    }
+    .save{
+        border-color: rgb(10,102,194);
+        color: rgb(10,102,194);
+        border-style:solid;
+        height:30px;
+        border-radius: 15px;
+        width:70px;
+        cursor:pointer;
+
+    }
+</style>
