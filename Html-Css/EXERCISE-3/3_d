@@ -1,0 +1,43 @@
+<!---- This file let's the Web enthusiast acquire the following: ---->
+   <!---- -> How to create a "get started and download" button and style it with hover property . ---->
+<!---- The actual code starts from the next line :) ---->
+
+<button class="get">
+    Get started
+</button>
+<button class="download">
+    Download
+</button>
+
+<style>
+    .get{
+        color: white;
+        background-color: rgb(121,82,179);
+        border: none;
+        border-radius: 2px;
+        height: 30px;
+        width: 95px;
+        cursor: pointer;
+        margin-right: 7px;
+        transition: background-color 0.15s;
+    }
+    .get:hover{
+        background-color: rgb(100, 54, 168);
+    }
+    .download{
+        color: rgb(108,117,125);
+        border-style: solid;
+        border-radius: 2px;
+        border-color: rgb(108,117,125);
+        height:30px;
+        width:95px;
+        border-width: 1px;
+        font-weight: bold;
+        cursor: pointer;
+        transition: background-color 0.15s, color 0.15s;
+    }
+    .download:hover{
+        background-color: rgb(108,117,125);
+        color: white;
+    }
+</style>
